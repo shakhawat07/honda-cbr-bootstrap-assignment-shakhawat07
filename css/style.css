@@ -1,3 +1,23 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.fa-star{
+    font-size: 22px;
+}
+.fa-star.filled{
+    color: #E77C40;
+    padding: 4px; 
+}
+
+.fa-star.empty{
+    color: #AEAEAE;
+    padding: 4px;
+   
+}
 /* customize style  */
 
 /* header css  */
