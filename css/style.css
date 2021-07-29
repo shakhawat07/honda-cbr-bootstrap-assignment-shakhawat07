@@ -1,4 +1,6 @@
 /* customize style  */
+
+/* header css  */
 .honda-bg-header{
     background-color: #264653;
 }
@@ -15,4 +17,8 @@
 .honda-header-text{
     color: #E0E0E0;
     font-size: 1rem;
+}
+.fetured-bike img{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
