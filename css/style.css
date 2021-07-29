@@ -5,13 +5,13 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-
 /* customize style  */
 
 /* header css  */
 .honda-bg-header{
     background-color: #264653;
 }
+
 .honda-btn-purchase{
     margin-top: 20px;
     padding: 10px;
@@ -26,7 +26,7 @@ body{
     color: #E0E0E0;
     font-size: 1rem;
 }
-/* main  */
+/* main css  */
 /* featured bike  */
 .featured-bike img{
     -webkit-filter: grayscale(100%);
