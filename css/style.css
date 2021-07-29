@@ -1,0 +1,18 @@
+/* customize style  */
+.honda-bg-header{
+    background-color: #264653;
+}
+.honda-btn-purchase{
+    margin-top: 20px;
+    padding: 10px;
+    width: 168px;
+    height: 44px;
+    left: 156px;
+    top: 413px;
+    background: #E76F51;
+    border-radius: 5px;
+}
+.honda-header-text{
+    color: #E0E0E0;
+    font-size: 1rem;
+}
