@@ -5,19 +5,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-.fa-star{
-    font-size: 22px;
-}
-.fa-star.filled{
-    color: #E77C40;
-    padding: 4px; 
-}
 
-.fa-star.empty{
-    color: #AEAEAE;
-    padding: 4px;
-   
-}
 /* customize style  */
 
 /* header css  */
@@ -38,7 +26,26 @@ body{
     color: #E0E0E0;
     font-size: 1rem;
 }
-.fetured-bike img{
+/* main  */
+/* featured bike  */
+.featured-bike img{
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
 }
+
+/* happy clients */
+.fa-star{
+    font-size: 22px;
+}
+.fa-star.filled{
+    color: #E77C40;
+    padding: 4px; 
+}
+
+.fa-star.empty{
+    color: #AEAEAE;
+    padding: 4px;
+   
+}
+
+
